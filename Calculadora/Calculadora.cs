@@ -1,6 +1,6 @@
 ﻿namespace Calculadora
 {
-    public static class Calculadora
+    public static class Operacoes
     {
         public static int Somar(int n1, int n2)
         {
