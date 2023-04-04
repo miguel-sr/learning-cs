@@ -17,5 +17,7 @@
         double res = Calculadora.Operacoes.ExecutarCalculo(operacao, n1, n2);
 
         Console.WriteLine("O resultado da operação é " + res);
+
     }
+
 }
